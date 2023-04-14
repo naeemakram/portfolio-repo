@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a test automation engineer with a development background and a knack for technical writing. I'm also a Udemy instructor.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "End-to-End Test Automation with Selenium",
+    "API Testing",
+    "Performance testing with JMeter",
+    "Programming in Java, C#, C++, and JS",
+    "Technical Writing and Blogging",
+    "Video Course Creator"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I'm passionate about software development and teaching the world about it. My courses about TCP/IP socket programming and UI test automation with WinAppDriver have been great successes. My blog entries have been widely enjoyed by my fellow IT professionals as well."
 }
