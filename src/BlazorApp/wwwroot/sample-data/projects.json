@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Appium WinAppDriver C# Windows Desktop UI Automation Testing",
+    "description": "Windows Application Driver Automation Testing, Appium Windows UI Test Automation, End-to-End Desktop Testing, C# .Net.",
+    "url": "https://www.udemy.com/course/appium-winappdriver-automation-testing/?referralCode=ED22C3A4CE5BB5E22E53"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "How to Debug JMeter Test Scripts",
+    "description": "A deep dive into debugging JMeter scripts with concrete examples.",
+    "url": "https://www.blazemeter.com/blog/debug-jmeter"
+  },  
+  {
+    "title": "My Tech Blog",
+    "description": "Since 2009 I've been writing about various tech problems that I solve during the work day on this blog.",
+    "url": "https://aprogrammersday.blogspot.com/"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
-  },
-  {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "TCP/IP Socket Programming in C# .Net For Coders & Students",
+    "description": "Learn socket programming in C# .Net , use async/await to create distributed applications, build a TCP/IP class library.",
+    "url": "https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/?referralCode=502BB75B8D0BEE51037E"
   }
 ]
